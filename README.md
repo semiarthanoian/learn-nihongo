@@ -1,3 +1,3 @@
 # learn-nihongo
 
-Hiragana, Katakana, and Joyo Kanji
+Hiragana, Katakana, Kanji, and Grammar.
